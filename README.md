@@ -1,3 +1,3 @@
 # ProfessorRambo
 
-Professor Rambo (michaelhaskell00.github.io)
+https://michaelhaskell00.github.io/Professor-Rambo/index.html
